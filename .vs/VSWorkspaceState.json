@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.config",
+    "\\build",
+    "\\test"
+  ],
+  "SelectedNode": "\\.config\\CredScanSuppressions.json",
+  "PreviewInSolutionExplorer": false
+}
